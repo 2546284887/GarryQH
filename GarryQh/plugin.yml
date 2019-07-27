@@ -1,0 +1,6 @@
+name: GarryQh
+main: com.garryqh.Qh
+version: 1.0
+author: Tcaks_NB
+commands:
+  qh:
